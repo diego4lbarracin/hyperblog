@@ -25,3 +25,5 @@ I'm learning git and it makes really happy ;))))
 Trying reset --soft
 
 XDXDXDddddddd
+
+Adding more info from here to then make a git pull from my local workspace.

@@ -1,10 +1,11 @@
 Hi, my name is Diego
 
-I'm 17. Actually, I'm almost 18, oh, and I forgot to mention that I was in Colombia,
-more specifically, in a small town in a department of my country that is mostly rural.
+I'm 17. Actually, I'm almost 18, oh, and I forgot to mention that I was born in Colombia,
+more specifically, in a small town in a department of my country that is mostly rural but
+I love with all my soul, Casanare.
 
 I managed to get an scholar ship to go to the university for free. 
-Now I study in one of the best universities of my country, "Pontificia Universidad Javerian"
+Now I study in one of the best universities of my country, "Pontificia Universidad Javeriana".
 It hasn't been easy, but I'm extremly happy :)
 
 People think I'm smart, but I don't think I'm 
@@ -17,10 +18,14 @@ Nothing else to say. Let's see when I'll edit this text again :D.
 Making changes. Only for experimental purposes.
 
 Today, I think my English is better, I'm not getting confused too often.
-Besides, I'm not missing to many words aswell.
+Besides, I'm not missing to many words as I used to.
 
 I'm learning git and it makes really happy ;))))
 
 Trying reset --soft
 
 XDXDXDddddddd
+
+Adding more info from here to then make a git pull from my local workspace.
+
+JJJJJJJJJJJJUUUUUUUUUUUULLLLLLLLLLLL
